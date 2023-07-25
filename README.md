@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   <a href="http://syjiang.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Be Happy, everyday!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);祝您今天愉快!&center=true&size=27">
   </a>
 </h1>
